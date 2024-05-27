@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://D:/Android/sdk/platforms/android-34/data/res/layout/simple_spinner_dropdown_item.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_camera.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_picture.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_rtsp.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/video_layout_samplevideo.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_menu.xml">
+        <config>
+          <theme>@style/Theme.Dentist_lmrui</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed98bf01-e806-409d-b19b-a73c417b3a1e" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\24101\.android\avd\Pixel_7_Pro_API_34.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dentist_lmrui" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dentist_lmrui" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dentist_lmrui" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dentist_lmrui" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_rtsp.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="15" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ftf2w28g8u3CUAPFc2aN0kqrMa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;android-custom-viewD:/Android/Gradle/caches/modules-2/files-2.1/com.shuyu/gsyVideoPlayer-java/7.1.4/42f59b7b13ac54a276f5b2709374e2a6710121ac/gsyVideoPlayer-java-7.1.4-sources.jar!/com/shuyu/gsyvideoplayer/video/StandardGSYVideoPlayer.java_SELECTED&quot;: &quot;StandardGSYVideoPlayer&quot;,
+    &quot;android-custom-viewD:/Android/Gradle/caches/modules-2/files-2.1/com.shuyu/gsyVideoPlayer-java/7.1.4/42f59b7b13ac54a276f5b2709374e2a6710121ac/gsyVideoPlayer-java-7.1.4-sources.jar!/com/shuyu/gsyvideoplayer/video/base/GSYBaseVideoPlayer.java_SELECTED&quot;: &quot;GSYBaseVideoPlayer&quot;,
+    &quot;android-custom-viewD:/Android/Gradle/caches/modules-2/files-2.1/com.shuyu/gsyVideoPlayer-java/7.1.4/42f59b7b13ac54a276f5b2709374e2a6710121ac/gsyVideoPlayer-java-7.1.4-sources.jar!/com/shuyu/gsyvideoplayer/video/base/GSYVideoControlView.java_SELECTED&quot;: &quot;GSYVideoControlView&quot;,
+    &quot;android-custom-viewD:/Android/Gradle/caches/modules-2/files-2.1/com.shuyu/gsyVideoPlayer-java/7.1.4/42f59b7b13ac54a276f5b2709374e2a6710121ac/gsyVideoPlayer-java-7.1.4-sources.jar!/com/shuyu/gsyvideoplayer/video/base/GSYVideoPlayer.java_SELECTED&quot;: &quot;GSYVideoPlayer&quot;,
+    &quot;android-custom-viewD:/Android/Gradle/caches/modules-2/files-2.1/com.shuyu/gsyVideoPlayer-java/7.1.4/42f59b7b13ac54a276f5b2709374e2a6710121ac/gsyVideoPlayer-java-7.1.4-sources.jar!/com/shuyu/gsyvideoplayer/video/base/GSYVideoView.java_SELECTED&quot;: &quot;GSYVideoView&quot;,
+    &quot;android-custom-viewD:/Android/Gradle/caches/modules-2/files-2.1/com.shuyu/gsyVideoPlayer-java/7.1.4/42f59b7b13ac54a276f5b2709374e2a6710121ac/gsyVideoPlayer-java-7.1.4-sources.jar!/moe/codeest/enviews/ENPlayView.java_SELECTED&quot;: &quot;ENPlayView&quot;,
+    &quot;android-custom-viewD:/Android/sdk/sources/android-34/android/view/SurfaceView.java_SELECTED&quot;: &quot;SurfaceView&quot;,
+    &quot;android-custom-viewD:/Android/sdk/sources/android-34/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-viewD:/Android/sdk/sources/android-34/android/widget/ImageView.java_SELECTED&quot;: &quot;ImageView&quot;,
+    &quot;android-custom-viewD:/Android/sdk/sources/android-34/android/widget/TextView.java_SELECTED&quot;: &quot;TextView&quot;,
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/java/com/example/dentist_lmrui/dentistgsyvideoplayer.java_SELECTED&quot;: &quot;dentistgsyvideoplayer&quot;,
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/java/com/example/dentist_lmrui/gsyvideoplayer.java_SELECTED&quot;: &quot;dentistgsyvideoplayer&quot;,
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/java/com/example/dentist_lmrui/player/SampleVideo.java_SELECTED&quot;: &quot;SampleVideo&quot;,
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/java/com/example/dentist_lmrui/player/dentistgsyvideoplayer.java_SELECTED&quot;: &quot;SampleVideo&quot;,
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/java/com/example/dentist_lmrui/playerUtils/dentistgsyvideoplayer.java_SELECTED&quot;: &quot;dentistgsyvideoplayer&quot;,
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/jni/opencv-4.5.1-android-sdk/sdk/java/src/org/opencv/android/CameraGLSurfaceView.java_SELECTED&quot;: &quot;CameraGLSurfaceView&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/dentist_lmrui/app/src/main/assets&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK Location&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;android-custom-viewE:/Desktop/dentist_lmrui/app/src/main/java/com/example/dentist_lmrui/player/dentistgsyvideoplayer.java_dentistgsyvideoplayer_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
+    ]
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\assets" />
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\res\layout" />
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\jni" />
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\assets\assets" />
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\res\layout" />
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\res\layout\palyer" />
+      <recent name="E:\Desktop\dentist_lmrui\app" />
+      <recent name="E:\Desktop\dentist_lmrui\app\src\main\res\menu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.dentist_lmrui.player" />
+      <recent name="com.example.dentist_lmrui.playerUtils" />
+      <recent name="com.example.dentist_lmrui" />
+      <recent name="com.example.dentist_lmrui.adapter" />
+      <recent name="com.example.dentist_lmrui.db" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="dentist_lmrui.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ed98bf01-e806-409d-b19b-a73c417b3a1e" name="更改" comment="" />
+      <created>1714625090423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714625090423</updated>
+    </task>
+    <servers />
+  </component>
+</project>
