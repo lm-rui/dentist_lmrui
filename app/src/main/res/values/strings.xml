@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dentist_lmrui</string>
+    <string name="default_value">n-teethv8</string>
+    <string-array name="model_array">
+<!--        <item>n</item>-->
+<!--        <item>s</item>-->
+<!--        <item>n-seg</item>-->
+<!--        <item>s-seg</item>-->
+        <item>n-teethv8</item>
+        <item>s-teeth-segv2</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_picture"
+        android:icon="@drawable/image"
+        android:title="图片"/>
+    <item
+        android:id="@+id/menu_camera"
+        android:icon="@drawable/photo"
+        android:title="摄像头"/>
+    <item
+        android:id="@+id/menu_rtsp"
+        android:icon="@drawable/videocam"
+        android:title="牙镜"/>
+</menu>
